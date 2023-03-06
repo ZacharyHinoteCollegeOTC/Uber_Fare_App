@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">Uber Fare App</string>
+    <string name="distance">Distance (miles): </string>
+    <string name="pref">Vehicle Preference: </string>
+    <string-array name="pref_array">
+        <item>Smart Car</item>
+        <item>Traditional Sedan</item>
+        <item>Minivan</item>
+    </string-array>
+    <string name="estimate">Estimate Uber Cost</string>
+    <string name="defaultVehicle">Default Vehicle</string>
+    <string name="defaultMileage">Default Mileage</string>
+    <string name="defaultFinalPrice">Default Final Price</string>
+    <string name="requestButton">Request ride now</string>
+    <string name="backButton">Go back to Beginning</string>
+    <string name="driverIntroduction">Your driver Bart Simpson will be arriving soon.</string>
 </resources>
